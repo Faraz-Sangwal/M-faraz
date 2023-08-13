@@ -1,6 +1,6 @@
-
-  📱 
- [Contact Me] [Whatsapp] (+92300-4669397) | (mailto:farazsingwal@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/faraz-sangwal/) |  [GitHub](https://github.com/faraz-sangwal/)
+# Muhammad Faraz
+### Address:  Hno 321 Gali 6 G8/2 Islamabad Pakistan
+Mobile: +92300-4669397 | Email farazsingwal@hotmail.com | [LinkedIn](https://www.linkedin.com/in/faraz-sangwal/) |  [GitHub](https://github.com/faraz-sangwal/)
 ## Professional Summary
 Mechanical Design Engineer with a solid background in mechanical engineering, I have gained three years of experience designing and developing mechanical systems, creating engineering calculations, and producing detailed drawings and specifications. Proficient in using 3D Cad software such as Solidworks, Abacus, and AutoCAD, I have successfully collaborated with site engineers to determine project requirements and ensure that the product is built according to design specifications. With experience liaising with suppliers, clients, architects, and contractors, I have created reports and documentation for upper management and manufacturing teams. My technical skills include critical thinking, active learning, organizational skills, problem-solving skills, mathematical skills, and troubleshooting, and I am experienced in using Creo 3.0, SolidWorks, AutoCAD, Ansys/Abaqus, MATLAB, MS Office (Word, Excel, PowerPoint), and SAP ERP.
 ## EDUCATION
@@ -37,6 +37,10 @@ Mechanical Design Engineer with a solid background in mechanical engineering, I 
 - Conducted routine scheduled maintenance work and promptly addressed faults, demonstrating efficient diagnosis and resolution of breakdown problems.
 - Supervised the maintenance and operation of various equipment and systems, including generators, turbines, boilers, elevators, cooling towers, pumps, centrifugal machines, and evaporators.#### Associate Software Engineer in Training @ _(Feb 2019 - present)_
 
+### [Fauji Cement Company Pvt LTD](https://fccl.com.pk/en/)
+#### Internship Mechanical Engineer _(Aug/2018 – Sep/2018)_
+- Learned about mechanical parts drawing and their implementation, and worked with senior engineers on making a Dam ring in the workshop
+- Acquired hands-on experience in welding, cutting, milling, shaping, and lathe machine operations.
 ______
 
 
