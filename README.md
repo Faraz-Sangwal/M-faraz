@@ -35,7 +35,7 @@ Mechanical Design Engineer with a solid background in mechanical engineering, I 
 - Maintained a comprehensive logbook of completed work, detailing tasks accomplished for effective tracking and reporting.
 - Documented operational records and performance metrics meticulously, facilitating in-depth performance analysis.
 - Conducted routine scheduled maintenance work and promptly addressed faults, demonstrating efficient diagnosis and resolution of breakdown problems.
-- Supervised the maintenance and operation of various equipment and systems, including generators, turbines, boilers, elevators, cooling towers, pumps, centrifugal machines, and evaporators.#### Associate Software Engineer in Training @ _(Feb 2019 - present)_
+- Supervised the maintenance and operation of various equipment and systems, including generators, turbines, boilers, elevators, cooling towers, pumps, centrifugal machines, and evaporators._
 
 ### [Fauji Cement Company Pvt LTD](https://fccl.com.pk/en/)
 #### Internship Mechanical Engineer _(Aug/2018 – Sep/2018)_
